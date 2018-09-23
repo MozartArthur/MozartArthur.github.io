@@ -8,6 +8,8 @@
 
 ## Программирование
 
+<details>
+    
 ### Самостоятельная работа 1
 + [GitHub, разметка](https://github.com/MozartArthur/Programming/blob/master/SM1.md 'GitHub, разметка')
 
@@ -16,9 +18,13 @@
 + Самостоятельная работа 2 
 + Лабораторная работа 3
 
+</details>
+
 ---
 
 ## Web - проектирование
+
+<details>
 
 ### 04.09.2018 - 08.09.2018 – неделя 1
 
@@ -36,6 +42,6 @@
 +  [Работа 6. Введение JS](https://github.com/MozartArthur/Web/blob/master/22-09-2018(1).md "Введение JS")
 +  [Работа 7. Функции JS]( "Функции JS")
 
-
+</details>
     
 
