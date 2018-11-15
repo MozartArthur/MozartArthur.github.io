@@ -1,20 +1,15 @@
-# Добро пожаловать!
-
-![Привет!](giphy.gif 'Рад тебя видеть!')
-
-## Вот мои работы, можете на них посмотреть! :3
 
 ---
 
 ## Программирование
 
-[Нажми меня](https://mozartarthur.github.io/Programming/ "Здесь находятся работы!")
+[Нажми меня](https://mozartarthur.github.io/Programming/)
 
 ---
 
 ## Web - проектирование
 
-[Нажми меня](https://mozartarthur.github.io/Web/ "Здесь находятся работы!")
+[Нажми меня](https://mozartarthur.github.io/Web/)
 
     
 
